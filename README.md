@@ -1,2 +1,2 @@
 # advancedcryptographyproject
-Advanced cryptography project using Wireshark and Python to analyze traffic and demonstrate cryptographic security concepts.
+Advanced cryptography project using Python to demonstrate cryptographic security concepts.
