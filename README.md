@@ -94,11 +94,3 @@ Public key cryptography enables secure communication over insecure channels and 
 ---
 
 
-### Prerequisites
-- Python 3.x
-- OpenSSL
-- VS Code 
-
-
-cd your-repo
-pip install -r requirements.txt
