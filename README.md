@@ -20,7 +20,7 @@ This repository contains practical work and reflections from a multi-week crypto
 
 ---
 
-## eek 1: Cryptography Environment Setup
+## Week 1: Cryptography Environment Setup
 ###  Title: Installation and Configuration of Cryptography Development Environment
 
 This section demonstrates the setup of tools required for cryptographic development.
