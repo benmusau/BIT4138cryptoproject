@@ -36,8 +36,3 @@ It covers both classical and advanced cryptographic techniques, including:
 
 
 [BIT4138AdvancedCryptography](https://github.com/benmusau/BIT4138AdvancedCryptography.git)
-
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/benmusau/BIT4138AdvancedCryptography.git
