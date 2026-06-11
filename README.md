@@ -1,96 +1,103 @@
-#  Cryptography Lab Portfolio
+# Advanced Cryptographic Decryption and Encryption System
 
-![License](https://img.shields.io/badge/license-MIT-blue)
+A Python-based cryptography project developed for **BIT4138: Advanced Cryptography**.  
+This project demonstrates the implementation of different encryption and decryption techniques, starting from classical ciphers to modern cryptographic systems.
 
----
+## Project Information
 
-##  Student Details
-- **Name:** MUSAU MUYA  
-- **Registration Number:** BSCCS202351379  
-- **Course:** Cryptography / Computer Science  
+- **Student Name:** BENSON MUSAU
+- **Admission Number:** BSCCS/2023/51379
+- **Course/Class:** Computer Science
+- **Unit Code:** BIT4138
+- **Unit Name:** Advanced Cryptography
+- **Lecturer Name:** NYORO MICHAEL
+- **Academic Year:** 2026
+- **Technology Used:** Python
 
----
+## Project Overview
 
-##  Project Overview
-This repository contains practical work and reflections from a multi-week cryptography course. It covers foundational concepts, implementation practices, and applied cryptographic techniques.
+This project explores the principles and practical implementation of cryptographic systems using Python and supporting security tools such as OpenSSL.  
+It covers both classical and advanced cryptographic techniques, including:
 
----
+- Classical ciphers
+- Stream ciphers
+- Randomness testing
+- Block cipher systems
+- AES encryption and decryption
+- RSA public key cryptography
 
-## Week 1: Cryptography Environment Setup
-###  Title: Installation and Configuration of Cryptography Development Environment
+## Topics Covered
 
-This section demonstrates the setup of tools required for cryptographic development.
+### 1. Cryptography Environment Setup
+- Installation and configuration of Python
+- Installation of VS Code
+- Installation of cryptography libraries
+- OpenSSL setup and testing
+- Local encryption script execution
+- GitHub repository initialization
 
-### Installation
-- **Python**
-- **Visual Studio Code (VS Code)**
+### 2. Classical Cryptography and Cipher Design
+- Caesar Cipher implementation
+- Vigenère Cipher encryption process
+- Encryption and decryption output testing
+- User input validation
+- Cipher testing results
 
-###  Figures
-- Fig 1: Installation of Python and VS Code  
-- Fig 2: Installation of Cryptography Libraries  
-- Fig 3: OpenSSL Installation Test  
-- Fig 4: Local Encryption Script Execution  
-- Fig 5: GitHub Repository Initialization  
+### 3. Stream Ciphers and Randomness Testing
+- LFSR generator implementation
+- Pseudorandom sequence generation
+- Statistical randomness testing
+- RC4 stream cipher simulation
+- Encryption performance evaluation
 
-###  Reflection
-This week focused on building a solid development environment and understanding essential tools required for cryptographic programming.
+### 4. Block Cipher Design and AES
+- AES encryption script development
+- Key generation process
+- File encryption demonstration
+- Decryption results
+- AES performance testing
 
----
+### 5. Public Key Cryptography (RSA)
+- RSA key pair generation
+- Public key encryption
+- Private key decryption
+- Secure message transmission
+- RSA validation and testing
 
-##  Week 2: Classical Cryptography and Cipher Design
+## Features
 
-Exploration of traditional encryption techniques such as:
-- Caesar Cipher  
-- Substitution Cipher  
-- Vigenère Cipher  
+- Encrypt and decrypt text using classical cryptographic techniques
+- Simulate stream cipher operations
+- Analyze pseudorandomness in generated sequences
+- Implement secure AES-based file/text encryption
+- Demonstrate RSA encryption and decryption using key pairs
+- Practice secure communication concepts in Python
 
-###  Reflection
-Classical cryptography provides insight into the evolution of encryption and highlights weaknesses that modern methods address.
+## Tools and Technologies
 
----
+- **Programming Language:** Python
+- **IDE/Editor:** Visual Studio Code
+- **Security Tool:** OpenSSL
+- **Version Control:** Git and GitHub
 
-##  Week 3: Stream Ciphers and Randomness Testing
+## Learning Outcomes
 
-Focus areas include:
-- Stream cipher algorithms  
-- Importance of randomness in cryptography  
-- Random number testing techniques  
+Through this project, the following concepts were demonstrated:
 
-###  Reflection
-Understanding randomness is critical in ensuring secure encryption systems and preventing predictability in keys.
+- Understanding the difference between symmetric and asymmetric encryption
+- Applying keys in encryption and decryption systems
+- Implementing cryptographic algorithms in Python
+- Testing randomness for stream cipher security
+- Understanding modern encryption standards such as AES and RSA
+- Managing cryptography-related code using GitHub
 
----
+## Repository Link
 
-##  Week 4: Block Cipher Design and AES
+GitHub Repository:  
+[BIT4138AdvancedCryptography](https://github.com/benmusau/BIT4138AdvancedCryptography.git)
 
-Key topics:
-- Block cipher fundamentals  
-- AES (Advanced Encryption Standard) implementation  
-- Encryption and decryption processes  
+## How to Run
 
-###  Reflection
-AES is a cornerstone of modern encryption, offering strong security and efficiency for real-world applications.
-
----
-
-##  Week 5: Public Key Cryptography (RSA)
-
-Topics covered:
-- RSA algorithm  
-- Key generation  
-- Encryption and decryption using public/private keys  
-
-###  Reflection
-Public key cryptography enables secure communication over insecure channels and forms the backbone of modern security systems.
-
----
-
-##  Technologies Used
-- Python  
-- OpenSSL  
-- Visual Studio Code 💻  
-- Git & GitHub  
-
----
-
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/benmusau/BIT4138AdvancedCryptography.git
